@@ -2,7 +2,7 @@
 #preview details
 image: "img/serv-i-4.svg"
 title: "Welding & Laser"
-short: "Designing and Building The Most Beautiful Custom Homes."
+short: "Offering state-of-the-art welding and laser cutting services, delivering precision and durability for all your construction needs."
 
 #full details
 description0:

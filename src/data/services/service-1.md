@@ -2,7 +2,7 @@
 #preview details
 image: "/img/serv-i-1.svg"
 title: "Construction"
-short: "Designing and Building The Most Beautiful Custom Homes."
+short: "Transforming your vision into reality with expert craftsmanship and a commitment to quality in every custom home we build."
 
 #full details
 description0:

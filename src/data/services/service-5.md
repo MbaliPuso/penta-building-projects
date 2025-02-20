@@ -2,7 +2,7 @@
 #preview details
 image: "img/serv-i-5.svg"
 title: "Architecture"
-short: "Designing and Building The Most Beautiful Custom Homes."
+short: "Designing innovative and sustainable architectural solutions that harmonize beauty and functionality."
 
 #full details
 description0:

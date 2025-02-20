@@ -2,7 +2,7 @@
 #preview details
 image: "img/serv-i-2.svg"
 title: "Project Development"
-short: "Designing and Building The Most Beautiful Custom Homes."
+short: "Overseeing every phase of your project with precision and dedication, ensuring seamless execution and timely delivery."
 
 #full details
 description0:

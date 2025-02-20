@@ -2,7 +2,7 @@
 #preview details
 image: "img/serv-i-3.svg"
 title: "Interior Design"
-short: "Designing and Building The Most Beautiful Custom Homes."
+short: "Creating inspiring and functional spaces that reflect your personal style, combining aesthetics with practicality for your home."
 
 #full details
 description0:
