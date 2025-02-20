@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "icon": {
+                "light": "/images/icon-1.svg",
+                "dark": "/images/1-icon.png",
+                "alt": "icon"
+            },
+            "title": "Strategic Project Planning",
+            "text": "Our customer-centric approach, ensures every project is meticulously planned and executed to meet standards and expectations.",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-2.svg",
+                "dark": "/images/2-icon.png",
+                "alt": "icon"
+            },
+            "title": "Timeless & Modern Designs",
+            "text": "Our expertise spans both traditional and contemporary designs, ensuring aesthetically appealing and functional spaces.",
+            "link": "/services/service-2"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "icon"
+            },
+            "title": "Premium Quality Materials",
+            "text": "We source high-quality, durable materials to guarantee long-lasting structures that stand the test of time while maintaining superior craftsmanship.",
+            "link": "/services/service-3"
+        }
+    ]
+}

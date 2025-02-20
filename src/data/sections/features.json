@@ -1,0 +1,31 @@
+{
+    "subtitle": "Core Features",
+    "title": "What Makes Us Different",
+    "yt_video_id": "/videos/pbp-work.mp4",
+    "image": {
+        "url": "/img/core-feature.jpg",
+        "alt": "image"
+    },
+    "items": [
+        {
+            "num": "01.",
+            "title": "Early Engagement",
+            "text": "Engaging Penta Building Projects early in the planning phase ensures streamlined project execution, cost-effective solutions, and reduced risks through expert consultation and strategic planning."
+        },
+        {
+            "num": "02.",
+            "title": "Integrity",
+            "text": "We uphold the highest standards of honesty, transparency, and professionalism in every project, ensuring trust and long-term relationships with our clients and partners."
+        },
+        {
+            "num": "03.",
+            "title": "Solutions",
+            "text": "Our comprehensive construction and project management services cover industrial, commercial, and residential builds, providing tailored solutions to meet diverse client needs."
+        },
+        {
+            "num": "04.",
+            "title": "Innovation",
+            "text": "We embrace modern construction techniques, sustainable building practices, and cutting-edge technology to deliver high-quality, efficient, and future-ready projects."
+        }
+    ]
+}

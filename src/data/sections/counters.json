@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "value": "10",
+            "label": "Years",
+            "plus": true,
+            "title": "Professional Experience"
+        },
+        {
+            "value": "22",
+            "label": "Million",
+            "plus": true,
+            "title": "Worth of Projects"
+        },
+        {
+            "value": "14",
+            "label": "Projects",
+            "plus": true,
+            "title": "Successfully Completed"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "items": [
+        {
+            "image": "img/articles6.jpg",
+            "title": "Expert Solutions for Commercial Developments",
+            "text": "Penta Building Projects delivers high-quality commercial construction with a focus on efficiency and customer satisfaction.",
+            "button": {
+                "label": "Start Consulting",
+                "link": "/contact"
+            }
+        },
+        {
+            "image": "img/project5-2.jpg",
+            "title": "Building Homes, Crafting Dreams",
+            "text": "With a commitment to excellence, we specialize in residential construction, offering tailored solutions for modern, sustainable, and functional living spaces.",
+            "button": {
+                "label": "Estimate Price",
+                "link": "/services"
+            }
+        },
+        {
+            "image": "img/slide1.jpg",
+            "title": "Innovative & Industrial Solutions",
+            "text": "We deliver durable and efficient facilities that meet the demands of modern industries and businesses.",
+            "button": {
+                "label": "Start Consulting",
+                "link": "/contact"
+            }
+        }
+    ]
+}

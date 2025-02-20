@@ -1,0 +1,20 @@
+{
+    "image1": {
+        "url": "/img/about-one.jpg",
+        "alt": "Image One"
+    },
+    "image2": {
+        "url": "/img/about-two.jpg",
+        "alt": "Image One"
+    },
+    "title": "Where a full range of services are provided",
+    "subtitle": "Welcome to Penta Building Projects",
+    "text": "We provide comprehensive construction and project management services, delivering excellence across commercial, residential, and industrial developments. With a focus on quality, innovation, and customer satisfaction, we execute projects of varying complexity while integrating the latest industry advancements. Our portfolio includes a diverse range of successfully completed builds, from modern homes to large-scale commercial and industrial facilities. At Penta Building Projects, construction is more than just our expertise—it’s our passion.",
+    "signature": {
+        "light": "/img/signature.png",
+        "dark": "/img/signature-1.png",
+        "alt": "Signature"
+    },
+    "name": "Walimes Jonnie",
+    "role": "Director of Constro Company"
+}
