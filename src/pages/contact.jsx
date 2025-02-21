@@ -8,24 +8,24 @@ const Contact = () => {
   const faqData = {
     "items": [
         {
-            "title": "Occupational Health Risk Management?",
-            "text": "Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased."
+            "title": "What types of construction projects do you handle?",
+            "text": "We specialize in residential, commercial, and industrial construction, offering full-service solutions from design to completion."
         },
         {
-            "title": "What is commercial management in construction?",
-            "text": "Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased."
+            "title": "Do you provide turnkey construction services?",
+            "text": "Yes, we manage the entire construction process, delivering fully completed projects ready for use."
         },
         {
-            "title": "Start a construction management?",
-            "text": "Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased."
+            "title": "How do you ensure the quality of construction?",
+            "text": "We use high-quality materials, experienced professionals, and strict quality control measures at every stage."
         },
         {
-            "title": "Measure quality in construction projects?",
-            "text": "Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased."
+            "title": "What project management services do you offer?",
+            "text": "We handle project planning, scheduling, budgeting, and execution to ensure efficient and timely completion."
         },
         {
-            "title": "Prepare a construction project schedule?",
-            "text": "Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased."
+            "title": "How do you handle unforeseen delays in construction projects?",
+            "text": "We implement risk management strategies, maintain flexible scheduling, and communicate effectively to minimize delays."
         }
     ]
   }
@@ -162,14 +162,14 @@ const Contact = () => {
                 <div className="col-lg-4 offset-lg-1" >
                 <div className="bio">
                     <div className="data">
-                        <figure>
+                        {/* <figure>
                             <img className="author" src="/img/team-1.jpg" alt="Bio Image" />
-                        </figure>
-                        <h3>Walimes Jonnie</h3>
-                        <p>Director of Constro Company</p>
+                        </figure> */}
+                        <h3>Say Hi to Penta Building Projects</h3>
+                        {/* <p>Director of Constro Company</p>
                         <figure>
                             <img src="/img/signature.png" alt="Signature Image" />
-                        </figure>
+                        </figure> */}
                     </div>
                 </div>
                 <div className="info">
@@ -223,7 +223,7 @@ const Contact = () => {
         <section className="contact-faqs">
             <div className="heading">
                 <figure>
-                    <img src="/images/heading-icon.png" alt="Heading Icon" />
+                    <img src="/img/heading-icon.png" alt="Heading Icon" width={50}/>
                 </figure>
                 <span>Frequently asked question</span>
                 <h2>Finding Solutions For Your Idea</h2>
