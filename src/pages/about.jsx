@@ -13,7 +13,7 @@ const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial
 const About = () => {
   return (
     <Layouts>
-      <PageBanner pageTitle={"About Us"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"About Us"} pageDesc={"our values vaulted us to the top of our industry."} />
       
       {/* About-First Start */}
       <section className="gap about-first">
@@ -63,7 +63,7 @@ const About = () => {
       <section className="gap about-how-it-works light-bg-color">
         <div className="heading">
           <figure>
-            <img src="/images/heading-icon.png" alt="Heading Icon" />
+            <img src="/img/heading-icon.png" alt="Heading Icon" width={50} />
           </figure>
           <span>Plan + Control</span>
           <h2>How it Works</h2>

@@ -18,7 +18,7 @@ const Services = (props) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Services"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Services"} pageDesc={"Our services vaulted us to the top of our industry."} />
 
       <ServicesSection />
 
@@ -129,7 +129,7 @@ const Services = (props) => {
       <section className="gap service-style-two">
         <div className="heading">
           <figure>
-            <img src="/images/heading-icon.png" alt="heading-icon" />
+            <img src="/img/heading-icon.png" alt="heading-icon" width={50} />
           </figure>
           <span>What We Provide</span>
           <h2>Exclusive Services</h2>
@@ -143,7 +143,7 @@ const Services = (props) => {
                 <p>{item.short}</p>
                 <div className="service-two-icon d-flex-all justify-content-start">
                   <img src={item.image} alt={item.title} />
-                  <Link href={`/services/${item.id}`}>
+                  <Link href='#'>
                     <i className="fa-solid fa-arrow-up-long"></i>
                   </Link>
                 </div>

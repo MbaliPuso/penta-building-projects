@@ -18,7 +18,7 @@ const Portfolio = (props) => {
             <div className="row align-items-center">
               <div className="col-lg-6">
                 <div className="proj-data">
-                  <h3><Link href={`/projects/${item.id}`}>{item.title}</Link></h3>
+                  <h3><Link href='#'>{item.title}</Link></h3>
                   <p>{item.short}</p>
                   <div className="loc-date">
                     <div>

@@ -21,9 +21,9 @@ const Portfolio = (props) => {
                   <img className="w-100" src={item.image} alt={item.title} />
                 </figure>
                 <div className="project-data">
-                    <h3><Link href={`/projects/${item.id}`}>{item.title}</Link></h3>
+                    <h3><Link href='#'>{item.title}</Link></h3>
                     <p>{item.short}</p>
-                    <Link className="project-icon" href={`/projects/${item.id}`}>
+                    <Link className="project-icon" href='#'>
                       <i className="fa-solid fa-angles-right" />
                     </Link>
                 </div>
