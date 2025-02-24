@@ -22,12 +22,22 @@ const Industry = (props) => {
                   <p>{item.short}</p>
                   <div className="loc-date">
                     <div>
-                      <span>LOCATION:</span>
-                      <span>{item.location}</span>
+                      <span>CLIENT:</span>
+                      <span>{item.client}</span>
                     </div>
                     <div>
-                      <span>DATE:</span>
-                      <span>{item.dates}</span>
+                      <span>PROJECT DURATION:</span>
+                      <span>{item.duration}</span>
+                    </div>
+                  </div>
+                  <div className="loc-date">
+                  <div>
+                      <span>LARGEST PROJECT SIZE:</span>
+                      <span>{item.size} m</span>
+                    </div>
+                    <div>
+                      <span>HIGHEST PROJECT VALUE:</span>
+                      <span>{item.value}</span>
                     </div>
                   </div>
                 </div>
@@ -44,7 +54,7 @@ const Industry = (props) => {
         </div>
         ))}
 
-        <div className="container">
+        {/* <div className="container">
           <div className="row">
             <div className="builty-pagination">
               <nav aria-label="Page navigation example">
@@ -60,7 +70,7 @@ const Industry = (props) => {
               </nav>
             </div>
           </div>
-        </div>
+        </div> */}
       </section>
       {/* Our Project One End */}
       

@@ -2,7 +2,11 @@
 #preview
 title: Commercial Projects
 image: /img/project2.jpg
-short: "Expertly engineered industrial facilities built for efficiency, durability, and high performance."
+short: "Tailored commercial spaces crafted for functionality, innovation, and enhanced customer experience."
+client: "Penta Motor Group Klerksdorp"
+duration: "8.5 Months"
+size: "3800 x 3800"
+value: "R 17 600 000"
 
 #full details
 checklist:

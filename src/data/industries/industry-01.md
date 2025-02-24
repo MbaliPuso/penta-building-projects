@@ -1,8 +1,12 @@
 ---
 #preview
 title: Industrial Projects
-image: /img/project2.jpg
+image: /img/project5.jpg
 short: "Expertly engineered industrial facilities built for efficiency, durability, and high performance."
+client: "Titan Jet Africa"
+duration: "8 Months"
+size: "3800 x 3800"
+value: "R 16 670 225"
 
 #full details
 checklist:

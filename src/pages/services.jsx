@@ -32,19 +32,25 @@ const Services = (props) => {
                 <h2>Construction Services</h2>
                 <Nav variant="pills" className="nav nav-pills mb-3">
                   <Nav.Item>
-                    <Nav.Link eventKey="tab-service-0">General Contracting</Nav.Link>
+                    <Nav.Link eventKey="tab-service-0">Construction</Nav.Link>
                   </Nav.Item>
                   <Nav.Item>
-                    <Nav.Link eventKey="tab-service-1">Project Management</Nav.Link>
+                    <Nav.Link eventKey="tab-service-1">Quantity Surveying</Nav.Link>
                   </Nav.Item>
                   <Nav.Item>
-                    <Nav.Link eventKey="tab-service-2">Quantity Surveying</Nav.Link>
+                    <Nav.Link eventKey="tab-service-2">Shopfitting</Nav.Link>
                   </Nav.Item>
                   <Nav.Item>
-                    <Nav.Link eventKey="tab-service-3">Civil Engineering</Nav.Link>
+                    <Nav.Link eventKey="tab-service-3">Project Development</Nav.Link>
                   </Nav.Item>
                   <Nav.Item>
-                    <Nav.Link eventKey="tab-service-4">Structural Engineering</Nav.Link>
+                    <Nav.Link eventKey="tab-service-4">Project Management</Nav.Link>
+                  </Nav.Item>
+                  <Nav.Item>
+                    <Nav.Link eventKey="tab-service-5">Civil Engineering</Nav.Link>
+                  </Nav.Item>
+                  <Nav.Item>
+                    <Nav.Link eventKey="tab-service-6">Structural Engineering</Nav.Link>
                   </Nav.Item>
                 </Nav>
               </div>
