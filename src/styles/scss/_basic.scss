@@ -2255,6 +2255,11 @@ span.counter {
     position: relative;
     justify-content: space-between;
 }
+
+.desktop-nav .nav-bar ul > li ul.sub-menu li a:hover {
+    color: $white;
+}
+
 .desktop-nav .nav-bar ul > li ul.sub-menu li a:before{
     content: "";
     width: 0;
