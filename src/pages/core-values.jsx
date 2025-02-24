@@ -10,7 +10,7 @@ const CoreValues = () => {
     <Layouts>
       <ImageView />
 
-      <PageBanner pageTitle={"Core Values"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Core Values"} pageDesc={"Our commitment to excellence, integrity, and innovation drives Penta Building Projects to deliver outstanding results."} />
       
       <AboutSection />
 
@@ -29,7 +29,7 @@ const CoreValues = () => {
               <li>
                 <div className="data">
                   <h3>Integrity</h3>
-                  <p>We are caring—with a deep concern for and kindness to one another. We believe in the boundless potential of all people and feel a great responsibility to uplift one another and our families, and positively impact our communities.</p>
+                  <p>We uphold the highest standards of honesty, transparency, and ethical business practices in every project we undertake. Our reputation is built on trust, and we are committed to delivering quality workmanship with unwavering integrity.</p>
                 </div>
                 <div className="image">
                   <figure>
@@ -45,13 +45,13 @@ const CoreValues = () => {
                 </div>
                 <div className="data">
                   <h3>Responsibility</h3>
-                  <p>We are caring—with a deep concern for and kindness to one another. We believe in the boundless potential of all people and feel a great responsibility to uplift one another and our families, and positively impact our communities.</p>
+                  <p>We take ownership of our work, ensuring that every project is executed with precision, professionalism, and care. Our responsibility extends beyond construction—we strive to create lasting value for our clients, employees, and the communities we serve.</p>
                 </div>
               </li>
               <li>
                 <div className="data">
                   <h3>Accountability</h3>
-                  <p>We are caring—with a deep concern for and kindness to one another. We believe in the boundless potential of all people and feel a great responsibility to uplift one another and our families, and positively impact our communities.</p>
+                  <p>We stand by our commitments and take full accountability for our actions. Through clear communication, teamwork, and a results-driven approach, we ensure that every project meets our high standards and exceeds client expectations.</p>
                 </div>
                 <div className="image">
                   <figure>
@@ -134,34 +134,34 @@ const CoreValues = () => {
       <section className="gap innovation">
         <div className="heading">
           <span>MAKE A DIFFERENCE</span>
-          <h2>Innovation in Action</h2>
+          <h2>Building Excellence, Creating Impact</h2>
         </div>
         <div className="container">
           <div className="row">
             <ul>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Dedication to client satisfaction</p>
+                <p>Commitment to Quality</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Dedication to client satisfaction</p>
+                <p>Client-Centered Approach</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Dedication to client satisfaction</p>
+                <p>Sustainable Practices</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Dedication to client satisfaction</p>
+                <p>Safety First</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Dedication to client satisfaction</p>
+                <p>Trust and Integrity</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Dedication to client satisfaction</p>
+                <p>Innovation in Action</p>
               </li>
             </ul>
           </div>
