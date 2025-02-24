@@ -4,6 +4,7 @@ import dynamic from "next/dynamic";
 
 import { getSortedPostsData } from "@library/posts";
 import { getSortedProjectsData } from "@library/projects";
+import { getSortedIndustriesData } from "@library/industries";
 
 import AboutSection from "@components/sections/About";
 import ServicesSection from "@components/sections/Services";
@@ -42,11 +43,13 @@ export default Home1;
 export async function getStaticProps() {
   const allPosts = getSortedPostsData();
   const allProjects = getSortedProjectsData();
+  const allIndustries = getSortedIndustriesData();
 
   return {
     props: {
       posts: allPosts,
-      projects: allProjects
+      projects: allProjects,
+      industries: allIndustries,
     }
   }
 }

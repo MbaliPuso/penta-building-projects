@@ -1,6 +1,7 @@
 ---
 #preview
 title: Omoda Jaecoo Dealership
+industry: Commercial
 image: /img/project3.jpeg
 short: "A contemporary home designed for comfort and modern living."
 location: "Menlyn"

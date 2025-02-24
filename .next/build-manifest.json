@@ -25,15 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/core-values": [
+    "/about": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/core-values.js"
+      "static/chunks/pages/about.js"
     ],
-    "/team": [
+    "/services": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/team.js"
+      "static/chunks/pages/services.js"
     ]
   },
   "ampFirstPages": []

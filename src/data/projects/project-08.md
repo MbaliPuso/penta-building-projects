@@ -1,6 +1,7 @@
 ---
 #preview
 title: PMG Dealership
+industry: Commercial
 image: /img/project8.jpg
 short: "A high-quality dealership showcasing premium vehicles and services."
 location: "Klerksdorp"

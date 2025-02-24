@@ -1,6 +1,7 @@
 ---
 #preview
 title: New House Build
+industry: Residential
 image: /img/project7.jpg
 short: "A contemporary home designed for comfort and modern living."
 location: "Melbourne"

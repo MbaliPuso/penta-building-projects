@@ -1,6 +1,7 @@
 ---
 #preview
 title: New Build Warehouse
+industry: Industrial
 image: /img/project1.jpg
 short: "A spacious and durable warehouse for optimized storage solutions."
 location: "Mokopane"

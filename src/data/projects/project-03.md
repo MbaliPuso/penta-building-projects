@@ -1,6 +1,7 @@
 ---
 #preview
 title: Barcelos Fast Food Restuarant
+industry: Commercial
 image: /img/project6.jpg
 short: "A modern, stylish restaurant built for fast and enjoyable dining."
 location: "Mokopane"

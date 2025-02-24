@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/core-values": "pages/core-values.js",
-  "/team": "pages/team.js"
+  "/services": "pages/services.js",
+  "/about": "pages/about.js"
 }

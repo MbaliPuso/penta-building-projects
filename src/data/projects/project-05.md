@@ -1,6 +1,7 @@
 ---
 #preview
 title: Engen Garage
+industry: Commercial
 image: /img/project4.jpg
 short: " A fully equipped service station for convenience and accessibility."
 location: "Mokopane"

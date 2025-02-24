@@ -1,6 +1,7 @@
 ---
 #preview
 title: Titan Jet Africa
+industry: Industrial
 image: /img/project5.jpg
 short: "A cutting-edge printing and equipment supplies facility designed for efficiency and high-quality service."
 location: "Derdepoort"

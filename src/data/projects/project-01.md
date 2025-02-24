@@ -1,6 +1,7 @@
 ---
 #preview
 title: Marnitz Kraal Lodge
+industry: Commercial
 image: /img/project2.jpg
 short: "A luxurious lodge built for comfort and relaxation in nature."
 location: "Botswana Border"
